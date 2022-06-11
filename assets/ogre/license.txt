@@ -1,0 +1,11 @@
+Model Information:
+* title:	ogre
+* source:	https://sketchfab.com/3d-models/ogre-f7f679625ea640a28067f7c8537d9be4
+* author:	ShivamCg (https://sketchfab.com/ShivamCg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ogre" (https://sketchfab.com/3d-models/ogre-f7f679625ea640a28067f7c8537d9be4) by ShivamCg (https://sketchfab.com/ShivamCg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

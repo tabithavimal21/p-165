@@ -1,0 +1,11 @@
+Model Information:
+* title:	GUN of cool
+* source:	https://sketchfab.com/3d-models/gun-of-cool-a31a8fd3b77242f89ef15b009eaa6eba
+* author:	DemonLord (https://sketchfab.com/wertert)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GUN of cool" (https://sketchfab.com/3d-models/gun-of-cool-a31a8fd3b77242f89ef15b009eaa6eba) by DemonLord (https://sketchfab.com/wertert) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
